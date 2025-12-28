@@ -4,4 +4,4 @@
 * For each question, there is an image of a K-Pop idol and 4 options to choose from
 * 7 skips allowed
 * Game can be replayed
-* K-Pop music plays in the backgroundS
+* K-Pop music plays in the background
